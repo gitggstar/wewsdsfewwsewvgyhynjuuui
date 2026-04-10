@@ -1,9 +1,9 @@
 #!name=APPLE rule
 #!desc=Apple规则集
 [rule]
-
+#apple
 RULE-SET,https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/Apple/Apple.list,DIRECT
-
+#domain
 DOMAIN-SET,https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/Apple/Apple_Domain.list,DIRECT
-
+#resolve
 RULE-SET,https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/Apple/Apple_Resolve.list,DIRECT
