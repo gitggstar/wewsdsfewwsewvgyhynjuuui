@@ -1,26 +1,9 @@
 #!name=APPLE rule
 #!desc=Apple规则集
 [rule]
-RULE-SET,https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/AppStore/AppStore.list,DIRECT
 
-RULE-SET,https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/AppStore/AppStore.list,DIRECT
+RULE-SET,https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/Apple/Apple.list,DIRECT
 
-RULE-SET,https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/AppleDev/AppleDev.list,DIRECT
+DOMAIN-SET,https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/Apple/Apple_Domain.list,DIRECT
 
-RULE-SET,
-
-RULE-SET,
-
-RULE-SET,
-
-RULE-SET,
-
-RULE-SET,
-
-RULE-SET,
-
-RULE-SET,
-
-RULE-SET,
-
-RULE-SET,
+RULE-SET,https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/Apple/Apple_Resolve.list,DIRECT
